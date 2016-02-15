@@ -1,2 +1,4 @@
 # daltonhance.github.io
-Missing At Random
+Missing@Random
+
+A blog about ecological and environmental statistics.
